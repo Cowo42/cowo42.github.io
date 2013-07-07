@@ -34,8 +34,11 @@
   <div class="container-narrow">
 
     <header>
-      <h1 id="responsive_headline">Essence</h1>
-      <h2>It's round the corner. And it'll blow your mind! Seriously. We are about to push it live. Be sure not to miss the launch. Leave us your email and we'll hit you up when it's ready. We do no spam. Promise.</h2>
+      <h1 id="responsive_headline">Cowo42</h1>
+      <h2>Ad Osimo sta per nascere il primo spazio di coworking.<br />
+          Per fare grandi cose bisogna circondarsi di grandi persone, vuoi
+          far parte di questo ecosistema?
+      </h2>
       <nav>
         <a href="#info" id="info-link"></a>
       </nav>
@@ -48,21 +51,33 @@
         <div class="row-fluid">
 
           <div class="span8 info">
-            <H3>About</h3>
-              <p>This Coming Soon HTML5/CSS3 Template is fully responsive, try to resize browser window. It’s based on Twitter Bootstrap v2.2.1 responsive grid and compatible with all major modern browsers. Optimized for mobile devices. You can easily adjust it to your needs. This template includes jQuery Countdown, Working AJAX MailChimp newsletter form (free MailChimp account required) and JQuery Twitter feed. No database needed. That’s pretty much all you could need before your awesome website is done! And you get 28 resolution independent svg social icons <a href="http://matyushen.com/simplico/" target="blank">Simplico</a>. As well as quick support, detailed documentation and clean source code. Hope you like it!</p>
+            <H3>Cowo42</h3>
+              <p>
+                  Cowo42 nasce per creare una community multiprofessionale per promuovere
+                  la cultura dell'innovazione all'interno del nostro territori.
+                  Crediamo nel coworking come punto di partenza, come motore di innovazione
+                  e come cuore di un ciclo virtuoso di miglioramento e sviluppo.
+                  <br />
+                  Il nostro primo spazio di corwking sarà ad Osimo, in Via Giolitti
+                  e sarà presto aperto al pubblico.
+                  <br />
+                  Se sei un freelance, un remote worker, o un aspirante startupper, probabilmente
+                  dovresti provare l'esperienza del coworking, iscriviti alla newsletter per essere
+                  aggiornato sugli sviluppi di Cowo42.
+
+              </p>
           </div>
           <div class="span4 info">
             <h3>Contact</h3>
 
             <address>
-              <strong>AwesomeCompanyName, Inc.</strong><br>
-              Moon, Crater 33 <br>
-              <a href="tel:1-111-555-5555">1-111-555-5555</a>
-            </address>
-
-            <address>
-              <strong>Free Man</strong><br>
-              <a href="mailto:#">freeman@example.com</a>
+              <strong>Cowo42</strong><br>
+              Via Giolitti<br />
+              Osimo(AN)<br />
+                <script type="text/javascript"><!--
+                    var qwbpgtq = ['c','s','e','2','"','=','@','o','t','a','w','a','a','=',' ','"','2','a','m','o','<','i','i','>','s','l','l','>','c','m','m','c','w',' ',':','l','"','h','@','n','f','o','4','o','.','f','<','m','f','c','i','4','o','/','.','c','o','o','o','"','r','a','e','o','i','n'];var ntalrsz = [21,37,40,26,31,38,20,50,13,35,23,1,10,7,2,45,57,42,41,53,0,43,47,65,36,44,12,46,59,9,30,28,54,32,15,34,39,3,51,48,6,14,25,22,27,49,62,61,18,52,16,56,60,63,58,33,29,55,24,8,4,64,5,19,11,17];var dkiusgi= new Array();for(var i=0;i<ntalrsz.length;i++){dkiusgi[ntalrsz[i]] = qwbpgtq[i]; }for(var i=0;i<dkiusgi.length;i++){document.write(dkiusgi[i]);}
+                    // --></script>
+                <noscript>Please enable Javascript to see the email address</noscript>
             </address>
           </div>
         </div>
@@ -79,30 +94,16 @@
       <div class="span12">
         <form id="signup" class="subscribe" action="<?=$_SERVER['PHP_SELF']; ?>" method="get">
           <input type="text" name="email" id="email" placeholder="Your email" />
-          <input class="submit" type="submit" name="submit" value="Notify me!"/>
+          <input class="submit" type="submit" name="submit" value="Tienimi aggiornato!"/>
         </form>
-        <div class="row-fluid">
-          <p class="message">
-            <?php require_once('inc/store-address.php'); if(isset($_GET['submit'])){ echo storeAddress(); } ?>
-          </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="row-fluid">
-      <div class="span12 center">
-        <div id="tw">
-          <p>
-            loading recent tweets..
-          </p>
-        </div>
       </div>
     </div>
 
     <div class="row-fluid social visible-desktop"> <!-- This is social media icons visible only on desk -->
       <div class="span12 center">
-        <a class="facebook" title="facebook" href="#"></a>
-        <a class="twitter" title="twitter" href="#"></a>
+        <a class="facebook" title="facebook" href="https://www.facebook.com/coworkingosimo"></a>
+        <a class="twitter" title="twitter" href="http://www.twitter/cowo42"></a>
+        <!--
         <a class="tumblr" title="tumblr" href="#"></a>
         <a class="youtube" title="youtube" href="#"></a>
         <a class="instagram" title="instagram" href="#"></a>
@@ -114,7 +115,6 @@
         <a class="reddit" title="reddit" href="#"></a>
         <a class="rss" title="rss" href="#"></a>
         <a class="mail" title="mail" href="#"></a>
-        <!-- 
         <a class="google" title="google" href="#"></a>
         <a class="linkedin" title="linkedin" href="#"></a>
         <a class="blogger" title="blogger" href="#"></a>
@@ -134,10 +134,11 @@
       </div>
     </div>
 
-        <div class="row-fluid social_touch visible-phone visible-tablet"> <!-- This is social media icons visible only on phones and tablets -->
-      <div class="span12 center">
-        <a class="facebook" title="facebook" href="#"></a>
-        <a class="twitter" title="twitter" href="#"></a>
+    <div class="row-fluid social_touch visible-phone visible-tablet"> <!-- This is social media icons visible only on phones and tablets -->
+        <div class="span12 center">
+        <a class="facebook" title="facebook" href="https://www.facebook.com/coworkingosimo"></a>
+        <a class="twitter" title="twitter" href="http://www.twitter/cowo42"></a>
+        <!--
         <a class="tumblr" title="tumblr" href="#"></a>
         <a class="youtube" title="youtube" href="#"></a>
         <a class="instagram" title="instagram" href="#"></a>
@@ -149,7 +150,6 @@
         <a class="reddit" title="reddit" href="#"></a>
         <a class="rss" title="rss" href="#"></a>
         <a class="mail" title="mail" href="#"></a>
-        <!-- 
         <a class="google" title="google" href="#"></a>
         <a class="linkedin" title="linkedin" href="#"></a>
         <a class="blogger" title="blogger" href="#"></a>
@@ -166,13 +166,12 @@
         <a class="forrst" title="forrst" href="#"></a>
         <a class="stumbleupon" title="stumbleupon" href="#"></a>
         -->
-                     
       </div>
     </div>
 
 
     <footer>
-      <p>&copy; Company 2012</p>
+      <p>&copy; Cowo42 2013</p>
     </footer>
 
   </div> <!-- /Main Container -->
@@ -197,7 +196,7 @@
   <script type="text/javascript">
   $(function () {
     $('#countdown').countdown({ 
-      until: new Date(2013, 12 - 1, 31)}); // put here launch date, for exampele Date(2013, 06 - 1, 01) is june 01 2013
+      until: new Date(2013, 09 - 1, 01  )}); // put here launch date, for exampele Date(2013, 06 - 1, 01) is june 01 2013
   });
   </script>
 
