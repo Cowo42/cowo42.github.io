@@ -1,0 +1,13 @@
+<div class="navbar" id="navbar_{{include.navbarName}}">
+    <div class="container separator">
+        <div class="navbar-inner">
+            <ul class="nav">
+                <li {% if include.navbarName == 'about' %}class="active"{% endif %}><a href="#navbar_about">About</a></li>
+                <li class="divider-vertical"></li>
+                <li {% if include.navbarName == 'cowo' %}class="active"{% endif %}><a href="#navbar_cowo">Il Cowo</a></li>
+                <li class="divider-vertical"></li>
+                <li {% if include.navbarName == 'listino' %}class="active"{% endif %}><a href="#listino">Listino</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
