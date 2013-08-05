@@ -66,7 +66,7 @@ span {
   font-weight: 400;
 }
 p {
-  color: #a0aab4;
+  color: #858f98;
   padding: 25px 0;
   text-align: justify;
 }
@@ -128,20 +128,20 @@ a:hover {
   padding: 10px 0;
 }
 .modal-body p {
-  color: #a0aab4 !important;
+  color: #858f98 !important;
   padding: 0;
   text-align: justify;
 }
 .modal-header h3 {
   font-family: 'quicksand', sans-serif;
-  color: #a0aab4;
+  color: #858f98;
   font-size: 36px;
   line-height: 48px;
   font-weight: 300;
   letter-spacing: -2px;
 }
 .nav a {
-  color: #a0aab4 !important;
+  color: #858f98 !important;
 }
 .nav a:hover {
   color: #2175b8 !important;
@@ -289,7 +289,7 @@ a.thumbnail:hover {
   direction: rtl;
 }
 .countdown_holding span {
-  color: #a0aab4;
+  color: #858f98;
 }
 .countdown_row {
   clear: both;
@@ -320,12 +320,12 @@ a.thumbnail:hover {
 .countdown_section {
   display: block;
   float: left;
-  color: #a0aab4;
+  color: #858f98;
   text-align: left;
 }
 .countdown_amount {
   font-size: 200%;
-  color: #a0aab4;
+  color: #858f98;
 }
 .countdown_descr {
   display: block;
