@@ -98,6 +98,11 @@ a:hover {
 #cowo img {
   margin-top: 25px;
 }
+
+#cowo .thumbnail img{
+  margin-top: 0px;
+}
+
 #listino {
   background: #ffffff;
   padding-right: 20px;
@@ -237,6 +242,7 @@ a.thumbnail:hover {
   display: block;
   color: #FFF;
   font-weight: 300;
+  font-size: 0.7em;
 }
 .price span.period {
   font-size: 0.5em;
