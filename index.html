@@ -140,25 +140,24 @@
     {% include navbar.html navbarName='cowo' %}
     <div class="container">
         <div class="row" id="description">
-            <div class="span8 margin5 margin-5">
-                <h2>Lo spazio <br/><span>di lavoro</span></h2>
+            
+            <h2>Lo spazio <span>di lavoro</span></h2>
 
-                <p>
-                    Il cowo è caratterizzato da una sala open space con 12 postazioni,
-                    due sale riunioni e un piccolo angolo ristoro con frigo, forno
-                    a micronde e immancabile macchinetta del caffè
-                    su una superficie totale di 120 mq,
-                    con un fantastico affaccio sulla nostra bella campagna marchigiana.
-                </p>
+            <p>
+                Il cowo è caratterizzato da una sala open space con 12 postazioni,
+                due sale riunioni e un piccolo angolo ristoro con frigo, forno
+                a micronde e immancabile macchinetta del caffè
+                su una superficie totale di 120 mq,
+                con un fantastico affaccio sulla nostra bella campagna marchigiana.
+                Tutte le postazioni includono utenze, scrivania, sedia, cestino, cassettiera con lucchetto, rete, wifi, sala riunione e angolo cucina.
+                <br/><br/>
+                <strong>Ci trovi in Via Giolitti, 14 ad Osimo Stazione, frazione di Osimo (AN)</strong>
+            </p>
 
-                <p><strong>Ci trovi in Via Giolitti, 14 ad Osimo(AN)</strong>
-                    <!--<abbr title="Phone">P:</abbr> (123) 456-7890-->
-                </p>
-                {% include prevNext.html prev="feat3" next="opening" %}
-            </div>
-            <div class="span4 margin10 margin-5">
-                <div id="map_canvas"></div>
-            </div>
+            <div id="map_canvas"></div>
+            
+            {% include prevNext.html prev="feat3" next="gallery" %}
+            
         </div>
         <div class="separator"></div>
         {% include gallery.html %}
@@ -225,12 +224,15 @@
                 <div class="price"><span>10 Giornate</span> 120€</div>
             </div>
         </div>
+        
         <div class="separator"></div>
-        <div class="row margin-10">
+        <div class="row margin-10" id="servizi">
           <h2><span>I servizi inclusi</span></h2>
           <p class="margin-5">
             Ogni postazione è all inclusive ed include: <strong>utenze, scrivania, sedia, cestino, cassettiera con lucchetto, rete, wifi, sala riunione e angolo cucina</strong>.
           </p>
+          
+          {% include prevNext.html prev="opening" %}
         </div>
     </div>
 </div>

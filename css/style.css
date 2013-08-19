@@ -103,7 +103,7 @@ a:hover {
   margin-top: 0px;
 }
 
-#listino {
+#listino, #servizi {
   background: #ffffff;
   padding-right: 20px;
   padding-left: 20px;
@@ -206,8 +206,8 @@ a:hover {
   padding: 9px 10px;
 }
 #map_canvas {
-  height: 156px;
-  margin-top: 35px;
+  height: 200px;
+  margin-top: 10px;
 }
 a.thumbnail:hover {
   border-color: #2175b8;

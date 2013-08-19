@@ -1,9 +1,9 @@
 // Google maps
-//
+// https://www.google.it/maps/ms?msid=206283331856136279699.0004de6676ae869eb2122&msa=0&ll=43.498116,13.531935&spn=0.001584,0.003484
 $(function() {
 	var settingsItemsMap = {
-		zoom: 13,
-		center: new google.maps.LatLng(43.497671, 13.530386),
+		zoom: 16,
+		center: new google.maps.LatLng(43.498116, 13.531935),
 		panControl: false,
 		zoomControl: true,
 		zoomControlOptions: {
@@ -13,12 +13,12 @@ $(function() {
 		scaleControl: false,
 		streetViewControl: false,
 		overviewMapControl: false,
-		mapTypeId: google.maps.MapTypeId.ROADMAP
+		mapTypeId: google.maps.MapTypeId.HYBRID
 	};
 	var map = new google.maps.Map(document.getElementById('map_canvas'), settingsItemsMap );
 
 	var myMarker = new google.maps.Marker({
-		position: new google.maps.LatLng(43.497671, 13.530386),
+		position: new google.maps.LatLng(43.498116, 13.531935),
 		draggable: false
 	});
 
