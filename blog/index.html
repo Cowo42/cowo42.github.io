@@ -1,0 +1,12 @@
+---
+layout: blog  
+title: Blogging Like a Hacker
+---
+
+<div class="container">
+    <div class="row">
+        {% for post in site.posts %}
+            <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+        {% endfor %}
+    </div>
+</div>
