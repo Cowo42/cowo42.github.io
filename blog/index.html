@@ -1,12 +1,16 @@
 ---
-layout: blog  
-title: Blogging Like a Hacker
+layout: default  
+title: Blog
 ---
 
 <div class="container">
     <div class="row">
         {% for post in site.posts %}
-            <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+          <div class="post">
+            <h2><a href="{{ post.url }}"><span>{{ post.title }}</span></a></h2>
+            <p class="meta">{{ post.date | date_to_string }}</p>
+            {{ post.content }}
+          </div>
         {% endfor %}
     </div>
 </div>

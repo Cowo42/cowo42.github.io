@@ -70,6 +70,30 @@ p {
   padding: 25px 0;
   text-align: justify;
 }
+
+.post {
+  margin-top: 20px;
+}
+
+.post p {
+  padding: 10px 0;
+}
+
+.post p.meta{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-top: 1px solid #2175b8;  
+  border-bottom: 1px solid #2175b8;  
+}
+
+.post h2 a{
+  font-weight: none;
+} 
+
+#disqus_thread {
+  margin-top: 30px;
+}
+
 a {
   color: #2175b8;
 }
