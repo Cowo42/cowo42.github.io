@@ -164,7 +164,7 @@
 
             <div id="map_canvas"></div>
             
-            {% include prevNext.html prev="feat3" next="coworkers" %}
+            <div class="offset10">{% include prevNext.html prev="feat3" next="coworkers" %}</div>
             
         </div>
         <div class="separator"></div>
@@ -189,7 +189,7 @@
                     <br/>
                     {% include mailchimp.html %}
                 </p>
-                {% include prevNext.html prev="cowo" next="listino" %}
+                {% include prevNext.html prev="coworkers" next="listino" %}
             </div>
         </div>
     </div>
@@ -232,9 +232,9 @@
             <div class="span3 offset1 price-box img-circle">
                 <div class="price"><span>10 Giornate</span> 120€</div>
             </div>
-            
-            
         </div>
+        
+        {% include prevNext.html prev="opening" next="sponsor" %}
         
         <div class="separator"></div>
         <div class="row margin-10" id="sponsor">
@@ -245,7 +245,7 @@
               <li><a href="http://www.3wd.it" target="_blank"><img src="/img/sponsor/3wd.png" /></a></li>
             </ul>
             
-            
+            <div class="offset10">{% include prevNext.html prev="listino" next="sponsor" %}</div>
             
         </div>
     </div>
