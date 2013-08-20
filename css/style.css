@@ -361,6 +361,22 @@ a.thumbnail:hover {
   display: block;
   width: 10%;
 }
+
+#sponsor h2{
+  text-align: center;
+}
+#sponsor ul{
+  list-style-type: none;
+  margin: 50px 0 0 0;
+  padding: 0px;
+}
+
+#sponsor ul li{
+  display: inline;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
 /* === Responsive settings ================================================================================ */
 @media (min-width: 1200px) {
   .price-box {
