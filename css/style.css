@@ -268,7 +268,7 @@ a.thumbnail:hover {
   font-weight: 300;
   font-size: 0.7em;
 }
-.price span.period {
+.price span.period, .price small {
   font-size: 0.5em;
 }
 /* === Mailchimp form ================================================================================ */
