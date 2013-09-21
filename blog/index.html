@@ -9,7 +9,7 @@ title: Blog
           <div class="post">
             <h2><a href="{{ post.url }}"><span>{{ post.title }}</span></a></h2>
             <p class="meta">{{ post.date | date_to_string }}</p>
-            {{ post.excerpt }}
+            {{ post.content }}
           </div>
         {% endfor %}
     </div>
