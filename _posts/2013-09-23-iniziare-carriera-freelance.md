@@ -19,4 +19,6 @@ La risposta migliore probabilmente è **personal branding**. Devi pensare a te s
 
 L'argomento è molto più vasto di quanto non sia possibile trattare in un singolo post ovviamente, ma [la rete è pieno di risorse sull'argomento](http://bit.ly/1eqb6XX). Con Cowo42 crediamo che la questione sia **di fondamentale importanza** e gli vogliamo dedicare **alcuni eventi**. Ospiteremo infatti una tappa del tour [1001 modi di trovare lavoro](http://www.lucapanzarella.it/blog/index.php/1001-modi-per-trovare-lavoro-il-tour/) di [Luca Panzarella](http://www.lucapanzarella.it/), autore di diversi libri sull'argomento, tra cui [vivere freelance](http://www.viverefreelance.it/).
 
-Se sei interessato a partecipare <a href="http://www.cowo42.com/#opening">iscriviti alla nostra newsletter</a>, così ti terremo aggiornato. 
+Il confronto con altri freelance, magari più esperti e navigati di te, può spaventare all'inizio, ma è una paura che va assolutamente sconfitta. **Il confronto con gli altri è la tua miglior possibilità di miglioramento**. Ci sarà sempre qualcuno più bravo e più esperto e ci sarà sempre qualcuno meno bravo e meno esperto, **mettersi in gioco e confrontarsi è veramente l'unica strada per progredire**. un passo alla volta, ma inesorabilmente.
+
+Prendere parte attiva ad una community come la nostra può essere un prezioso aiuto, non perdere questa occasione. Se sei interessato a questo e agli altri nostri eventi <a href="http://www.cowo42.com/#opening">iscriviti alla nostra newsletter</a>, così ti terremo aggiornato.
