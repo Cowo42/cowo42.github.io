@@ -20,5 +20,5 @@ di comunità, accessibilità, sostenibilità. Crediamo che l’accoglienza e la 
 siano elementi fondamentali per uno spazio di coworking come lo intendiamo noi. Crediamo che non ci
 possano essere spazi fisici senza che ci siano anche spazi mentali. I viaggi aprono la mente ed è per questo
 che ci piace pensare che Cowo42 possa essere la meta perfetta di un viaggio all’insegna dell’evoluzione e
-dell’innovazione. Per fare grandi viaggi ci vogliono grandi persone: abbiamo fatt la prima tappa ed era piena
+dell’innovazione. Per fare grandi viaggi ci vogliono grandi persone: abbiamo fatto la prima tappa ed era piena
 di persone interessanti.
