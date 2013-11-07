@@ -17,6 +17,9 @@
     <link href='http://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'>
     <link rel="image_src" href="/thumbnail.png"/>
     <link rel="icon" type="image/ico" href="/favicon.ico">
+    {% if page.canonical%}
+    <link rel="canonical" href="{{page.canonical}}"/>
+    {%endif%}
 </head>
 <body data-spy="scroll" data-target=".navbar">
 <!--start home section-->
