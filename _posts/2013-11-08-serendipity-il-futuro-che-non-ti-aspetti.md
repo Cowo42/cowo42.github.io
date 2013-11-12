@@ -1,6 +1,8 @@
 ---
-layout: post-ml  
+layout: post  
 title: Il futuro che non ti aspetti. Il tuo.
+eventId: 9170542339
+eventUrl: https://www.eventbrite.it/e/biglietti-progetto-serendipita-un-nuovo-modello-di-scuola-9170542339?ref=etckt
 ---
 Avete mai pensato di trovare quello che non stavate cercando? Vi ricordate quando da piccoli giocavate a nascondino: cercavate Gaia e “tanavate” Stefano. Il bello del nascondino forse è proprio quello. Cowo42 vi invita questa volta a provare un gioco bello inaspettato come nascondino. **Nella prossima iniziativa che abbiamo organizzato proveremo a cercare il futuro che non ci aspettiamo: il nostro!** E lo faremo con chi meglio di tutti è esperto di giochi: i bambini. 
 
@@ -13,4 +15,4 @@ fare a meno di un po’ di serendipità? Ecco, qui ne avremo un assaggio.
 
 **Il terzo motivo è legato al mondo delle startup**: [Emily](https://www.facebook.com/emily.mignanelli?hc_location=stream) ha ideato il progetto e lo ha messo in cantiere credendoci fino in fondo anche quando le cose non sono andate bene, anche quando il mondo intorno le suggeriva di lasciar perdere. Quella di Serendipità è anche la storia di come **la passione, la determinazione ed un buon progetto ricco di valori possono avere la meglio sulle circostanze**. Voglia di una sferzata di entusiasmo? La viva voce di chi ce lo ha messo tutto sarà contagiosa.
 
-A breve sarà possibile prenotare un posto (gratuito) per l'evento, per non perdere l'occasione di riservare il suo iscriviti alla nostra mailing list.
+A noi sembra che questi tre motivi valgano il prezzo di un biglietto (peraltro gratis): non aspettatevi niente, troverete un pezzetto del vostro futuro.
