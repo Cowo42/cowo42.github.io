@@ -7,8 +7,13 @@ layout: default
     <div class="post">
       <h2><span>{{ page.title}}</span></h2>
       <p class="meta">{{ page.date | date_to_string }}</p>
-      {{ content }}
       
+      {{ content }}
+
+      {% if page.eventId %}
+      <div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.it/tickets-external?eid={{page.eventId}}&ref=etckt&v=2" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.it/r/etckt">Registrazione dell'evento online</a><span style="color:#ddd;"> per </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="{{page.eventUrl}}">Progetto serendipità, un nuovo modello di scuola</a> <span style="color:#ddd;">con tecnologia</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.it?ref=etckt">Eventbrite</a></div></div>
+      
+      {% endif %}
       <div id="disqus_thread"></div>
       <script type="text/javascript">
           /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
