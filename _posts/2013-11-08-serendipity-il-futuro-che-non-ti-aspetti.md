@@ -1,8 +1,8 @@
 ---
 layout: post  
 title: Il futuro che non ti aspetti. Il tuo.
-eventId: 9170542339
-eventUrl: https://www.eventbrite.it/e/biglietti-progetto-serendipita-un-nuovo-modello-di-scuola-9170542339?ref=etckt
+eventId: 10628246371
+eventUrl: https://www.eventbrite.it/e/biglietti-progetto-serendipita-un-nuovo-modello-di-scuola-10628246371
 ---
 Avete mai pensato di trovare quello che non stavate cercando? Vi ricordate quando da piccoli giocavate a nascondino: cercavate Gaia e “tanavate” Stefano. Il bello del nascondino forse è proprio quello. Cowo42 vi invita questa volta a provare un gioco bello inaspettato come nascondino. **Nella prossima iniziativa che abbiamo organizzato proveremo a cercare il futuro che non ci aspettiamo: il nostro!** E lo faremo con chi meglio di tutti è esperto di giochi: i bambini. 
 
