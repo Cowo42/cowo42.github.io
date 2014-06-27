@@ -60,4 +60,4 @@ Scegli un coworking perché ti serve una postazione, ne scegli uno perché tra g
 
 Non sei solamente il tuo lavoro, nessuno lo è, e in un ambiente altamente predisposto alla condivisione come il coworking non sai mai cosa puoi aspettarti.
 
-[social-skills]: http://www.cowo42.com/posts/social-skills.png
+[social-skills]: http://www.cowo42.com/img/posts/social-skills.png
