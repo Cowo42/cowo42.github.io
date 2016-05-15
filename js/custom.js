@@ -18,7 +18,7 @@ $(function() {
 	var map = new google.maps.Map(document.getElementById('map_canvas'), settingsItemsMap );
 
 	var myMarker = new google.maps.Marker({
-		position: new google.maps.LatLng(43.498116, 13.531935),
+		position: new google.maps.LatLng(43.498981, 13.5419513),
 		draggable: false
 	});
 
