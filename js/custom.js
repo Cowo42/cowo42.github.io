@@ -3,7 +3,7 @@
 $(function() {
 	var settingsItemsMap = {
 		zoom: 16,
-		center: new google.maps.LatLng(43.498116, 13.531935),
+		center: new google.maps.LatLng(43.498981, 13.5419513),
 		panControl: false,
 		zoomControl: true,
 		zoomControlOptions: {
