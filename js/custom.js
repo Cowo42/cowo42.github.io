@@ -3,7 +3,7 @@
 $(function() {
 	var settingsItemsMap = {
 		zoom: 16,
-		center: new google.maps.LatLng(43.498981, 13.5419513),
+		center: new google.maps.LatLng(43.49898, 13.54414),
 		panControl: false,
 		zoomControl: true,
 		zoomControlOptions: {
@@ -18,7 +18,7 @@ $(function() {
 	var map = new google.maps.Map(document.getElementById('map_canvas'), settingsItemsMap );
 
 	var myMarker = new google.maps.Marker({
-		position: new google.maps.LatLng(43.498981, 13.5419513),
+		position: new google.maps.LatLng(43.49898, 13.54414),
 		draggable: false
 	});
 
