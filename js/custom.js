@@ -5,14 +5,12 @@ $(function() {
 		zoom: 16,
 		center: new google.maps.LatLng(43.49898, 13.54414),
 		panControl: false,
-		zoomControl: true,
-		zoomControlOptions: {
-			style: google.maps.ZoomControlStyle.SMALL
-		},
+		zoomControl: false,
 		mapTypeControl: false,
 		scaleControl: false,
 		streetViewControl: false,
 		overviewMapControl: false,
+		scrollwheel: false,
 		mapTypeId: google.maps.MapTypeId.HYBRID
 	};
 	var map = new google.maps.Map(document.getElementById('map_canvas'), settingsItemsMap );
